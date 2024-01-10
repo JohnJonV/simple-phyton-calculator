@@ -1,16 +1,4 @@
-"""print("======== Para seguirmos com o serviço, por favor insira as seguintes informações ========")
- 
-dia = input("Dia: ")
-mes = input("Mês: ")
-ano = input("Ano: ")
-
-print("Com base nas informações inseridas a cima, podemos determinar que:")
-print(".")
-print(".")
-print(".")
-print("Você nasceu no dia", dia, "de",mes, "de", ano,) """
-
-"""----------calculadora basicassa:----------"""
+#----------calculadora basicassa:----------
 num1= int(input())
 
 resultado = input()
