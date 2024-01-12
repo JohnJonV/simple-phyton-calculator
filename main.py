@@ -1,9 +1,9 @@
 #----------calculadora basicassa:----------
-num1= int(input())
+num1= float(input())
 
 resultado = input()
 
-num2= int(input())
+num2= float(input())
 
 multiplicação = (num1 * num2)
 
